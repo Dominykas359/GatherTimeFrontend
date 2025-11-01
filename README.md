@@ -3,6 +3,6 @@ Komandinis Vilniaus Gedimino technikos universiteto kompleksinis darbas, skirtas
 
 
 # Dėmėsio! 🚧
-Siekiant sujungti kliento ir serverio dalis į vieną saugyklą, buvo nuspresta visą programinę įrangos dalį perkelti į naują kliento bei serverio kodo saugančią [saugyklą](https://github.com/Dovias/gathertime).
+Siekiant sujungti kliento ir serverio dalis į vieną saugyklą, buvo nuspresta visą programinę įrangos dalį perkelti į naują kliento bei serverio kodą saugančią [saugyklą](https://github.com/Dovias/gathertime).
 
 Šioje saugykloje nebus keliami nauji pakeitimai bei ji yra užarchyvuota neribotam laikui.
