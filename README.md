@@ -1,26 +1,8 @@
-# GatherTimeFrontend
+# GatherTime 📅
+Komandinis Vilniaus Gedimino technikos universiteto kompleksinis darbas, skirtas įgyvendinti susitikimų ir laisvo laiko planavimo socialinio tinklo programinę įrangą.
 
-**Komanda**
-PRIf-22/1:
-Kšyštof Tužik
-Dovidas Zablockis
-PRIf-22/3:
-Dominykas Stunžėnas
-Tomas Filipavičius
 
-## Aprašymas
-Tai **React (Vite)** pagrindu sukurta kliento dalis, skirta naudotojams planuoti ir derinti susitikimus su draugais.  
-Sąsaja leidžia vartotojams patogiai:
-- matyti savo ir draugų kalendorius,
-- siūlyti ir patvirtinti susitikimus,
-- valdyti draugus bei grupes,
-- gauti pranešimus realiu laiku,
-- sinchronizuoti kalendorių su kitomis programomis.
+# Dėmėsio! 🚧
+Siekiant sujungti kliento ir serverio dalis į vieną saugyklą, buvo nuspresta visą programinę įrangos dalį perkelti į naują kliento bei serverio kodo saugančią [saugyklą](https://github.com/Dovias/gathertime).
 
----
-
-## ⚙️ Naudojamos technologijos
-- **React + Vite**
-- **JavaScript (arba TypeScript, jei naudosite)**
-- **Axios** – API užklausoms
-- **React Router DOM** – puslapių navigacijai
+Šioje saugykloje nebus keliami nauji pakeitimai bei ji yra užarchyvuota neribotam laikui.
